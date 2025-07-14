@@ -1,6 +1,6 @@
 # Conceitos e Fundamentos de Repositórios Remotos
 
-1. O que é um Repositório Remoto?
+## 1. O que é um Repositório Remoto?
 Definição:
 Um repositório remoto é uma cópia do seu repositório de código-fonte que está hospedada na internet, em servidores especializados. Ele permite que várias pessoas acessem, colaborem e compartilhem alterações no código, mesmo que estejam em lugares diferentes do mundo.
 Por que usar repositórios remotos?
@@ -15,7 +15,7 @@ Acesso ao código de qualquer lugar: Com um repositório remoto, você pode aces
 
 Exemplo prático: Imagine que você trabalha em um projeto com amigos que moram em outras cidades. Com um repositório remoto, todos podem contribuir ao mesmo tempo, sem a necessidade de enviar arquivos por e-mail.
 
-2. GitHub: A Plataforma de Hospedagem Mais Popular
+## 2. GitHub: A Plataforma de Hospedagem Mais Popular
 O que é o GitHub?
 O GitHub é uma plataforma online que utiliza o sistema de controle de versão Git para permitir que desenvolvedores hospedem e compartilhem seus projetos. Ele oferece uma série de recursos para facilitar o desenvolvimento colaborativo, como:
 Hospedagem gratuita de repositórios públicos.
@@ -45,7 +45,7 @@ Azure DevOps: Solução da Microsoft que inclui controle de versão, além de fe
 
 
 
-3. Repositório Local x Remoto
+## 3. Repositório Local x Remoto
 Repositório Local:
 É uma cópia do repositório que fica armazenada no seu computador pessoal.
 
@@ -69,7 +69,7 @@ Facilita a colaboração, o backup e a distribuição do projeto.
 
 Fluxo comum: Você desenvolve no repositório local → confirma as alterações (commit) → envia para o repositório remoto (push).
 
-4. Como se Registrar no GitHub?
+## 4. Como se Registrar no GitHub?
 Se você ainda não possui uma conta no GitHub, siga este passo a passo simples para se registrar:
 Passo 1: Acesse o site
 Entre no site oficial: https://github.com/signup
